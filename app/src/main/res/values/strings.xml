@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My FIrst APK</string>
+    <string name="buttonOne">Button</string>
+    <string name="name">Name</string>
+</resources>
