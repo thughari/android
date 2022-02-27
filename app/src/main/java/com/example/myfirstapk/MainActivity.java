@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
     public void buttonClick(View view){
         TextView var = findViewById(R.id.sampleText);
         var.setText("hii");
+        System.out.println("hello");
     }
 }
